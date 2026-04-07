@@ -1,0 +1,23 @@
+{
+  "name": "meiyugao-ceo-team",
+  "leadAgentId": "642c073a848f4ca79665ea18f4b03ee1",
+  "workspacePath": "c:/Users/Administrator/WorkBuddy/20260319091238",
+  "createdAt": "2026-04-07T07:24:02.247Z",
+  "options": {
+    "workspacePath": "c:/Users/Administrator/WorkBuddy/20260319091238",
+    "isAutoTeam": false
+  },
+  "members": [
+    {
+      "memberId": "team-lead@meiyugao-ceo-team",
+      "name": "team-lead",
+      "role": "Team Lead - coordinates the team and interacts with the user"
+    },
+    {
+      "memberId": "公众号运营专家@meiyugao-ceo-team",
+      "name": "公众号运营专家",
+      "role": "公众号运营专家"
+    }
+  ],
+  "isAutoTeam": false
+}

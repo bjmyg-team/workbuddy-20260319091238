@@ -29,8 +29,9 @@ Thumbs.db
 node_modules/
 
 # 工作空间配置（包含敏感信息）
-.workbuddy/memory/
-.workbuddy/config.json
+.workbuddy/memory/*
+!workbuddy/memory/
+SOUL.md
 
 # IDE
 .vscode/

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "msg-1775547223261-a80plp",
+    "from": "team-lead",
+    "to": "公众号运营专家",
+    "type": "message",
+    "content": "重要通知：公众号项目所需的Skills已全部安装到位，请确认以下Skills已就绪：\n\n✅ wechat-article-writer（微信公众号文章写作）\n✅ content-marketing（内容营销策略）\n✅ mp-weixin-skills（微信公众号运营）\n✅ wechat-article-search（竞品文章搜索，本地已有）\n✅ content-factory（内容工厂，本地已有）\n✅ seo-ops（SEO优化，本地已有）\n✅ case-study-expert（案例包装，本地已有）\n\n所有Skills均已同步到当前项目工作空间。请继续待命，等待CEO下达执行指令。",
+    "timestamp": "2026-04-07T07:33:43.261Z",
+    "read": true
+  },
+  {
+    "id": "msg-1775547711910-l14ppe",
+    "from": "team-lead",
+    "to": "公众号运营专家",
+    "type": "message",
+    "content": "Skills装备已全部到位，包括：\n\n**排版与图片（漂亮大气推文必备）：**\n- pptx-generator（信息图、流程图、步骤图）\n- openai-image-gen（AI生成封面图+文中插图）\n- canvas-design（Banner、海报设计）\n- awesome-design-md（设计模板）\n\n**搜索竞品（对标同行）：**\n- wechat-article-search（搜索竞品公众号文章 ✅ 已就绪）\n- web-search-exa（深度网络搜索）\n- autoresearch（自动研究行业热点）\n- market-researcher（市场研究报告）\n\n**内容生产：**\n- wechat-article-writer、content-marketing、mp-weixin-skills、xiaohongshu-content-expert、case-study-expert、seo-expert\n\n**自动发布：**\n- automation-engineer、mp-weixin-skills\n\n专家：公众号推文要好看、有图，参考同行，这套工具链完全覆盖了。请继续待命，CEO还有指示。",
+    "timestamp": "2026-04-07T07:41:51.910Z",
+    "read": true
+  }
+]
