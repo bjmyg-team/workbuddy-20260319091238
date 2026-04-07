@@ -1,0 +1,42 @@
+# Git忽略规则
+# 临时文件
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+# 图片生成
+generated-images/
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+
+# 工作空间配置（包含敏感信息）
+.workbuddy/memory/
+.workbuddy/config.json
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# 其他
+*.zip
+*.rar
